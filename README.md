@@ -1,2 +1,2 @@
 # pagina_perfil
-Primeira ativade do Curso
+Primeira atividade do Curso
